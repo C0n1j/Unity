@@ -1,0 +1,767 @@
+fileFormatVersion: 2
+guid: 6f8ecefe1bb2dc44691562f764d26f29
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1220676315707714157
+    second: 230-2302939_joining-images-to-create-sprite-sheet-donald-trump_0
+  - first:
+      213: 6054325022527044487
+    second: 230-2302939_joining-images-to-create-sprite-sheet-donald-trump_1
+  - first:
+      213: -3253479497651670340
+    second: 230-2302939_joining-images-to-create-sprite-sheet-donald-trump_2
+  - first:
+      213: 2590425327312837191
+    second: 230-2302939_joining-images-to-create-sprite-sheet-donald-trump_3
+  - first:
+      213: 313926555247741945
+    second: 230-2302939_joining-images-to-create-sprite-sheet-donald-trump_4
+  - first:
+      213: 2674044229648036819
+    second: 230-2302939_joining-images-to-create-sprite-sheet-donald-trump_5
+  - first:
+      213: -498428311086248635
+    second: 230-2302939_joining-images-to-create-sprite-sheet-donald-trump_6
+  - first:
+      213: 2622702859728714345
+    second: 230-2302939_joining-images-to-create-sprite-sheet-donald-trump_7
+  - first:
+      213: 5657705948102692187
+    second: 230-2302939_joining-images-to-create-sprite-sheet-donald-trump_8
+  - first:
+      213: -4112114736860909743
+    second: 230-2302939_joining-images-to-create-sprite-sheet-donald-trump_9
+  - first:
+      213: 6877255055065821792
+    second: 230-2302939_joining-images-to-create-sprite-sheet-donald-trump_10
+  - first:
+      213: 3721530828391783772
+    second: 230-2302939_joining-images-to-create-sprite-sheet-donald-trump_11
+  - first:
+      213: -6770069288470938793
+    second: 230-2302939_joining-images-to-create-sprite-sheet-donald-trump_12
+  - first:
+      213: -9121972652094772382
+    second: 230-2302939_joining-images-to-create-sprite-sheet-donald-trump_13
+  - first:
+      213: 6013672880732124693
+    second: 230-2302939_joining-images-to-create-sprite-sheet-donald-trump_14
+  - first:
+      213: 8903767915486857246
+    second: 230-2302939_joining-images-to-create-sprite-sheet-donald-trump_15
+  - first:
+      213: -672118775387602160
+    second: 230-2302939_joining-images-to-create-sprite-sheet-donald-trump_16
+  - first:
+      213: 3591193703173184219
+    second: 230-2302939_joining-images-to-create-sprite-sheet-donald-trump_17
+  - first:
+      213: -9006631857992373142
+    second: 230-2302939_joining-images-to-create-sprite-sheet-donald-trump_18
+  - first:
+      213: -916965033165942129
+    second: 230-2302939_joining-images-to-create-sprite-sheet-donald-trump_19
+  - first:
+      213: -9017997284569731511
+    second: 230-2302939_joining-images-to-create-sprite-sheet-donald-trump_20
+  - first:
+      213: -6254594674583570285
+    second: 230-2302939_joining-images-to-create-sprite-sheet-donald-trump_21
+  - first:
+      213: 8407363178356729098
+    second: 230-2302939_joining-images-to-create-sprite-sheet-donald-trump_22
+  - first:
+      213: 6285334860437783628
+    second: 230-2302939_joining-images-to-create-sprite-sheet-donald-trump_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 230-2302939_joining-images-to-create-sprite-sheet-donald-trump_0
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 306
+        width: 43
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6aad7744a6b0f010800000000000000
+      internalID: 1220676315707714157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 230-2302939_joining-images-to-create-sprite-sheet-donald-trump_1
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 301
+        width: 46
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78bbb72e788450450800000000000000
+      internalID: 6054325022527044487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 230-2302939_joining-images-to-create-sprite-sheet-donald-trump_2
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 301
+        width: 46
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb2b47272a159d2d0800000000000000
+      internalID: -3253479497651670340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 230-2302939_joining-images-to-create-sprite-sheet-donald-trump_3
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 305
+        width: 45
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74a18ab4c1a03f320800000000000000
+      internalID: 2590425327312837191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 230-2302939_joining-images-to-create-sprite-sheet-donald-trump_4
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 298
+        width: 46
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fb8a1be98a4b5400800000000000000
+      internalID: 313926555247741945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 230-2302939_joining-images-to-create-sprite-sheet-donald-trump_5
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 303
+        width: 45
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d3bad52f0d1c1520800000000000000
+      internalID: 2674044229648036819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 230-2302939_joining-images-to-create-sprite-sheet-donald-trump_6
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 206
+        width: 62
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54dc4b3871a3519f0800000000000000
+      internalID: -498428311086248635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 230-2302939_joining-images-to-create-sprite-sheet-donald-trump_7
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 198
+        width: 65
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96af781fa56b56420800000000000000
+      internalID: 2622702859728714345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 230-2302939_joining-images-to-create-sprite-sheet-donald-trump_8
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 200
+        width: 63
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5d86408595348e40800000000000000
+      internalID: 5657705948102692187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 230-2302939_joining-images-to-create-sprite-sheet-donald-trump_9
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 206
+        width: 64
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15fa1c90f65dee6c0800000000000000
+      internalID: -4112114736860909743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 230-2302939_joining-images-to-create-sprite-sheet-donald-trump_10
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 201
+        width: 65
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06235fa090be07f50800000000000000
+      internalID: 6877255055065821792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 230-2302939_joining-images-to-create-sprite-sheet-donald-trump_11
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 202
+        width: 62
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5d15f6229885a330800000000000000
+      internalID: 3721530828391783772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 230-2302939_joining-images-to-create-sprite-sheet-donald-trump_12
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 104
+        width: 43
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75b78ebf9d1eb02a0800000000000000
+      internalID: -6770069288470938793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 230-2302939_joining-images-to-create-sprite-sheet-donald-trump_13
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 98
+        width: 46
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26b2015043e386180800000000000000
+      internalID: -9121972652094772382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 230-2302939_joining-images-to-create-sprite-sheet-donald-trump_14
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 97
+        width: 44
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 516307b8f9bd47350800000000000000
+      internalID: 6013672880732124693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 230-2302939_joining-images-to-create-sprite-sheet-donald-trump_15
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 103
+        width: 43
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e184d15beb9809b70800000000000000
+      internalID: 8903767915486857246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 230-2302939_joining-images-to-create-sprite-sheet-donald-trump_16
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 99
+        width: 45
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 013c62ae8872ca6f0800000000000000
+      internalID: -672118775387602160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 230-2302939_joining-images-to-create-sprite-sheet-donald-trump_17
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 99
+        width: 42
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdad14565ab76d130800000000000000
+      internalID: 3591193703173184219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 230-2302939_joining-images-to-create-sprite-sheet-donald-trump_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 7
+        width: 66
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6ce5a95b04020380800000000000000
+      internalID: -9006631857992373142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 230-2302939_joining-images-to-create-sprite-sheet-donald-trump_19
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 1
+        width: 68
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8290be19294643f0800000000000000
+      internalID: -916965033165942129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 230-2302939_joining-images-to-create-sprite-sheet-donald-trump_20
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 2
+        width: 66
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94ea8c3cf33a9d280800000000000000
+      internalID: -9017997284569731511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 230-2302939_joining-images-to-create-sprite-sheet-donald-trump_21
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 6
+        width: 65
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 398756f18473339a0800000000000000
+      internalID: -6254594674583570285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 230-2302939_joining-images-to-create-sprite-sheet-donald-trump_22
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 0
+        width: 69
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a05e6af3444fca470800000000000000
+      internalID: 8407363178356729098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 230-2302939_joining-images-to-create-sprite-sheet-donald-trump_23
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 0
+        width: 67
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4406c221cef93750800000000000000
+      internalID: 6285334860437783628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      230-2302939_joining-images-to-create-sprite-sheet-donald-trump_0: 1220676315707714157
+      230-2302939_joining-images-to-create-sprite-sheet-donald-trump_1: 6054325022527044487
+      230-2302939_joining-images-to-create-sprite-sheet-donald-trump_10: 6877255055065821792
+      230-2302939_joining-images-to-create-sprite-sheet-donald-trump_11: 3721530828391783772
+      230-2302939_joining-images-to-create-sprite-sheet-donald-trump_12: -6770069288470938793
+      230-2302939_joining-images-to-create-sprite-sheet-donald-trump_13: -9121972652094772382
+      230-2302939_joining-images-to-create-sprite-sheet-donald-trump_14: 6013672880732124693
+      230-2302939_joining-images-to-create-sprite-sheet-donald-trump_15: 8903767915486857246
+      230-2302939_joining-images-to-create-sprite-sheet-donald-trump_16: -672118775387602160
+      230-2302939_joining-images-to-create-sprite-sheet-donald-trump_17: 3591193703173184219
+      230-2302939_joining-images-to-create-sprite-sheet-donald-trump_18: -9006631857992373142
+      230-2302939_joining-images-to-create-sprite-sheet-donald-trump_19: -916965033165942129
+      230-2302939_joining-images-to-create-sprite-sheet-donald-trump_2: -3253479497651670340
+      230-2302939_joining-images-to-create-sprite-sheet-donald-trump_20: -9017997284569731511
+      230-2302939_joining-images-to-create-sprite-sheet-donald-trump_21: -6254594674583570285
+      230-2302939_joining-images-to-create-sprite-sheet-donald-trump_22: 8407363178356729098
+      230-2302939_joining-images-to-create-sprite-sheet-donald-trump_23: 6285334860437783628
+      230-2302939_joining-images-to-create-sprite-sheet-donald-trump_3: 2590425327312837191
+      230-2302939_joining-images-to-create-sprite-sheet-donald-trump_4: 313926555247741945
+      230-2302939_joining-images-to-create-sprite-sheet-donald-trump_5: 2674044229648036819
+      230-2302939_joining-images-to-create-sprite-sheet-donald-trump_6: -498428311086248635
+      230-2302939_joining-images-to-create-sprite-sheet-donald-trump_7: 2622702859728714345
+      230-2302939_joining-images-to-create-sprite-sheet-donald-trump_8: 5657705948102692187
+      230-2302939_joining-images-to-create-sprite-sheet-donald-trump_9: -4112114736860909743
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
