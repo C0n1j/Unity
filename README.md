@@ -16,3 +16,5 @@ En este repositorio de veran los distintos proyectos que he realizado a lo largo
 Todos los proyectos esta desarrollados en `Unity`  con la version `Unity 6.1 (6000.1.3f1)`.
 
 Los proyectos se divide en `2D`, `3D` y `Realidad virtual` y cada proyesto solo contiene los archivos de `Assets`, `Packages` y `ProjectSettings` para que ocupe menos y al iniciar el proyecto las carpetas faltantes se recrearan sin necesidad de hacer nada en especial
+
+[leer terminos de licencia](https://github.com/C0n1j/Unity/blob/main/LICENSE)
